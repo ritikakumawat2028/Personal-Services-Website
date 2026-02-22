@@ -53,7 +53,7 @@ export function ServicesSection() {
               <div>
                 <div className="text-sm text-blue-400 font-semibold mb-1">BUSINESS PRICING</div>
                 <div className="text-slate-300">
-                  <span className="text-2xl font-bold text-white">₹20,000 - ₹50,000++</span>
+                  <span className="text-2xl font-bold text-white">₹10,000 - ₹20,000++</span>
                   <span className="text-slate-400 ml-2">| Based on features & complexity</span>
                 </div>
               </div>
